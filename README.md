@@ -1,4 +1,17 @@
-# WinForge — vídeo e fotos do novo visual
+# WinForge — visual atual WF-186
+
+**Prévia WF-187 · 27/10/2026**
+
+[📷 Galeria com 25 fotos](previews/2026-10-27/WF186-GALERIA.md) · [▶ Vídeo completo — 1min12s](https://raw.githubusercontent.com/GunZ999/WinForge-Downloads/preview-wf175-20261027/previews/2026-10-27/WinForge-visual-WF186.mp4) · [▶ Efeitos — 12s](https://raw.githubusercontent.com/GunZ999/WinForge-Downloads/preview-wf175-20261027/previews/2026-10-27/WinForge-WF186-efeitos.mp4)
+
+[![HOME atual](previews/2026-10-27/WF186-HOME.png)](previews/2026-10-27/WF186-HOME.png)
+
+Renderer real, dados demonstrativos identificados e nenhuma otimização executada. Somente a cópia visual foi compilada; o executável normal, o backup WF-186, main e Latest continuam preservados.
+
+---
+
+## Arquivo da prévia anterior — WF-175
+
 
 **Visual WF-175 · Capturas WF-176 · 27/10/2026**
 
