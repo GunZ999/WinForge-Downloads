@@ -1,3 +1,17 @@
+# WinForge — novo visual WF-188
+
+**Prévia WF-189 · 27/10/2026**
+
+[📷 Galeria com 32 fotos](previews/2026-10-27/WF188-GALERIA.md) · [▶ Vídeo completo — 1min36s](https://raw.githubusercontent.com/GunZ999/WinForge-Downloads/preview-wf175-20261027/previews/2026-10-27/WinForge-visual-WF188.mp4) · [▶ Efeitos — 12s](https://raw.githubusercontent.com/GunZ999/WinForge-Downloads/preview-wf175-20261027/previews/2026-10-27/WinForge-WF188-efeitos.mp4)
+
+[![Nova HOME](previews/2026-10-27/WF188-HOME.png)](previews/2026-10-27/WF188-HOME.png)
+
+Nova navegação, HOME, cartões, janelas e temas Violeta, Azul e Claro. Release x64 compilada. Mídias do renderer real em uma cópia isolada com dados demonstrativos identificados; nenhuma otimização executada. Backup anterior, main e Latest preservados.
+
+---
+
+## Arquivo da prévia anterior — WF-186
+
 # WinForge — visual atual WF-186
 
 **Prévia WF-187 · 27/10/2026**
